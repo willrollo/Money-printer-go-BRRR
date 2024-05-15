@@ -2,9 +2,9 @@ import React, { useState } from 'react';
 import styled, { css, keyframes } from 'styled-components';
 import {
   faFont,
-  faMusic,
-  faMusicSlash,
-} from '@fortawesome/pro-solid-svg-icons';
+  faVolumeHigh,
+  faVolumeXmark,
+} from '@fortawesome/free-solid-svg-icons';
 import Title from '../Title';
 import Slider from './Slider';
 import Button from './Button';
